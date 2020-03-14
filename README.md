@@ -44,18 +44,3 @@ In terminal, once in the directory, kg_Mmat97_2018,type in the command line. Ex:
 oneMapping: takes two parameters 
 
 
-
-
-## Example
-
-Stadiums Results: At first glance, the number of sports stadiums opened
-vary greatly for each major city, except Phoenix most likely due to most stadiums 
-being outside of the city itself
-
-The csv is generated in the proper format, however,
-allowing for more in-depth visualization and analysis. 
-
-
-
-
-
